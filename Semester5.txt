@@ -1,0 +1,5 @@
+Systems Programming,4,CS,361
+Computer Design,4,CS,362
+Software Design,3,CS,342
+Math Elective,3,depends,depends
+Gen ED,3,Gen ED, Gen ED

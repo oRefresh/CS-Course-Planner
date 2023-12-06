@@ -1,0 +1,5 @@
+Calculus III,3,Math,210
+Science Elective,4,depends,depends
+Programming Practicum,3,CS,211
+Data Structures,4,CS,251
+Gen ED,3,Gen ED, Gen ED

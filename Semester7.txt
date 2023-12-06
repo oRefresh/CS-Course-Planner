@@ -1,0 +1,5 @@
+Ethical Issues in Computing,3,CS,377
+Computer Algorithms I,3,CS,401
+Technical Elective,3,depends,depends
+Technical Elective,3,depends,depends
+Gen ED,3,Gen ED, Gen ED

@@ -1,0 +1,4 @@
+TechnicalCommunication in Computer Science,3,CS,277
+Programming Language Design,3,CS,341
+Math Elective,3,depends,depends
+Gen ED,3,Gen ED, Gen ED

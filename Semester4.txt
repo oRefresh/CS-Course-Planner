@@ -1,0 +1,5 @@
+Machine Organization,4,CS,261
+Languages and Automata,3,CS,301
+Math Elective,3,depends,depends
+Gen ED,3,Gen ED, Gen ED
+Gen ED,3,Gen ED, Gen ED

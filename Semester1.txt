@@ -1,0 +1,5 @@
+Engineering Success Seminar,0,ENGR,100
+Academic Writing I,3,English,160
+Calculus I,4,Math,180
+Program Design I,3,CS,111
+Science Elective,4,Depends,depends

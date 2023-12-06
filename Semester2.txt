@@ -1,0 +1,5 @@
+Calculus II,4,Math,181
+Academic Writing II,3,English,161
+Program Design II,3,CS,141
+Mathematical Foundations of Computing,3,CS,151
+Gen ED,3,Gen ED, Gen ED

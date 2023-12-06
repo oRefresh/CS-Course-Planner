@@ -1,0 +1,49 @@
+Adv Data Structure Practicum,3,CS,351
+Framework-based Development,3,CS,378
+Undergrad Design/Research,3,CS,398
+Algorithms in Practice,3,CS,402
+Economics and Computation,3,CS,407
+Artificial Intelligence I,3,CS,411
+Intro to Machine Learning,3,CS,412
+Computer Vision I,3,CS,415
+Introduction to Data Science,3,CS,418
+Language Processing,3,CS,421
+User Interface Design,3,CS,422
+Visual Analytics,3,CS,424
+Computer Graphics I,3,CS,425
+Video Game Design,3,CS,426
+Creative Coding,3,CS,427
+Virtual and Augmented Reality,3,CS,428
+Software Engr I,3,CS,440
+Cloud Computing Objects,3,CS,441
+Software Engineering II,3,CS,442
+Intro to Networking,3,CS,450
+Intro Parallel Distrib Process,3,CS,453
+Principles of Concurrent Prog,3,CS,454
+Network Protocols,3,CS,455
+Operating Systems,3,CS,461
+Systems Performance,3,CS,463
+Computer Architecture,3,CS,466
+Network Security,3,CS,468
+Compiler Design,3,CS,473
+Obj-Oriented Langs & Envs,3,CS,474
+Programming Language Dsgn,3,CS,476
+Computing Law Policy & Ethics,3,CS,477
+Development of Mobile Apps,3,CS,478
+Wearables Technology Lab,3,CS,479
+Database Systems,3,CS,480
+Big Data Mining,3,CS,483
+Secure Web App Development,3,CS,484
+Net Operat Syst Progr,3,CS,485
+Secure OS Design,3,CS,486
+Secure Computer Systems,3,CS,487
+Intro to Cryptography,3,CS,488
+Human Augmentics,3,CS,489
+HDL based System Design,3,ECE,469
+Networks & Distributed,3,IT,301
+Database Administration,3,IT,302
+Intro to Symbolic Computation,3,MCS,320
+Codes & Cryptography,3,MCS,425
+Numerical Analysis,3,MCS,471
+Computational Geometry,3,MCS,481
+Linear & Non-Linear Programng,3,STAT,471

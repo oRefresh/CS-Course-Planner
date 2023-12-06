@@ -1,0 +1,12 @@
+Intro to Advanced Math,3,MATH,215
+Differential Equations I,3,MATH,220
+Applied Linear Algebra,3,MATH,310
+Linear Algebra I,3,MATH,320
+Formal Logic I,3,MATH,430
+Found of Number Theory,3,MATH,435
+Number Theory Applicants,3,MATH,436
+Combinatorics,3,MCS,421
+Graph Theory,3,MCS,423
+Numerical Analysis,3,MCS,471
+Intro to Probability,3,STAT,401
+Intro Game Theory,3,STAT,473

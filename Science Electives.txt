@@ -1,0 +1,12 @@
+Biol of Cells & Organisms,4,BIOS,110
+Populations & Communities,4,BIOS,120
+Matter and Energy,3,CHEM,122
+Foundations of Chem Inquiry I,2,CHEM,123
+Chemical Dynamics,3,CHEM,124
+Foundations of Chem Inquiry II,2,CHEM,125
+General and Analytical Chem I,5,CHEM,116
+General and Analytical Chem II,5,CHEM,118
+Global Environmental Change,4,EAES,101
+Earth, Energy, Environment,4,EAES,111
+General Physics I,4,PHYS,141
+General Physics II,4,PHYS,142
